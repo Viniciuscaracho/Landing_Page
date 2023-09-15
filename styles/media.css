@@ -1,0 +1,249 @@
+@media  screen and (max-width:1512px) and (min-width:1014px){
+    body{
+        zoom: 100%;
+    }
+    header{
+        flex-direction: row;
+        height: 200px;
+    }
+
+    #Phrases{
+        margin-top: 30px;
+    }
+
+    h1{
+        font-size: 20px;
+        margin-left: 15px;
+    }
+    .Landing{
+        font-size: 40px;
+        margin-left: 1px;
+    }
+    h5{
+        margin: 1px;
+        font-size: 25px;
+        height: 50px;
+    }
+    #title{
+        margin: 50px;
+        margin-left: 45px;
+        font-size: 90px;
+    }
+    #b{
+        line-height: 30px;
+        font-size: 20px;
+        color: rgb(184, 223, 223);
+        height: 19px
+    }
+    
+    main{
+        flex-direction: column;
+    }
+    button{
+        font-size: 20px;
+        height: 50x;
+        margin-right: 5px;
+        width: 100px;
+        color: rgb(219, 226, 231);
+        background-color: rgba(0, 0, 0, 0);
+        border-radius: 8px;
+        cursor: pointer;
+        border: 2px solid transparent;
+    }
+    #buttons2{
+        margin-top: 250px;
+        margin-left: 90px;
+    }
+    .contact{
+        width: 130px;
+    }
+}
+
+@media  screen and (max-width:1016px) and (min-width:816px){
+    body{
+        zoom: 100%;
+    }
+    header{
+        flex-direction: row;
+        height: 200px;
+    }
+
+    #Phrases{
+        margin-top: 70px;
+    }
+
+    h1{
+        font-size: 20px;
+        margin-left: 15px;
+    }
+    .Landing{
+        font-size: 40px;
+        margin-left: 1px;
+    }
+    h5{
+        margin: 1px;
+        font-size: 25px;
+        height: 50px;
+    }
+    #title{
+        margin: 50px;
+        margin-left: 45px;
+        font-size: 90px;
+    }
+    #b{
+        flex-direction: row;
+        margin-right: 5px;
+        line-height: 25px; 
+        font-size: 20px; 
+        color: rgb(184, 223, 223);
+        width: 500px; 
+        height: 10px; 
+    }
+    
+    main{
+        flex-direction: column;
+    }
+    button{
+        font-size: 20px;
+        height: 50x;
+        margin-right: 5px;
+        width: 100px;
+        color: rgb(219, 226, 231);
+        background-color: rgba(0, 0, 0, 0);
+        border-radius: 8px;
+        cursor: pointer;
+        border: 2px solid transparent;
+    }
+    #buttons2{
+        margin-top: 350px;
+        margin-left: 190px;
+    }
+    .contact{
+        width: 130px;
+    }
+}
+
+@media  screen and (max-width: 815px) and (min-width: 475px) {
+    header{
+        flex-direction: column;
+        height: 90px;
+    }
+
+    #Phrases{
+        margin-top: 80px;
+    }
+
+    h1{
+        font-size: 12px;
+        margin-left: 30px;
+    }
+    .Landing{
+        font-size: 22px;
+        margin-left: 1px;
+    }
+    h5{
+        margin: 1px;
+        font-size: 14px;
+        height: 43px;
+    }
+    #title{
+        margin: 15px;
+        margin-left: 95px;
+        font-size: 7px;
+    }
+    #b{
+        margin-right: 20px;
+        line-height: 18px;
+        font-size: 12px;
+        color: rgb(184, 223, 223);
+        height: 145px;
+    }
+    
+    main{
+        flex-direction: column;
+    }
+    button{
+        margin-left: 23px;
+        font-size: 9px;
+        height: 30px;
+        width: 52px;
+        color: rgb(219, 226, 231);
+        background-color: rgba(0,0,0,0);
+        border-radius: 10px;
+        cursor: pointer;
+        border: 2px solid transparent;
+    }
+    #buttons2{
+        margin-left: 75px;
+    }
+    .contact{
+        width: 70px;
+    }
+}   
+
+@media  screen and (max-width:474px) and (min-width: 332px) {
+    body{
+        zoom: 100%;
+    }
+    header{
+        flex-direction: column;
+        height: 20px;
+    }
+
+    #Phrases{
+        margin-top: 200px;
+    }
+
+    h1{
+        font-size: 20px;
+        margin-left: 15px;
+    }
+    .Landing{
+        font-size: 40px;
+        margin-left: 1px;
+    }
+    h5{
+        margin: 1px;
+        font-size: 30px;
+        height: 50px;
+    }
+    #title{
+        margin: 15px;
+        margin-left: 80px;
+        font-size: 9px;
+    }
+    #b{
+        flex-direction: row;
+        margin-right: 5px;
+        line-height: 16px; 
+        font-size: 15px; 
+        color: rgb(184, 223, 223);
+        width: 200px; 
+        height: 10px; 
+    }
+    
+    main{
+        flex-direction: column;
+    }
+    button{
+        margin-left: 3px;
+        margin-top: 90px;
+        font-size: 13px;
+        height: 19px;
+        width: 80px;
+        color: rgb(219, 226, 231);
+        background-color: rgba(0, 0, 0, 0);
+        border-radius: 5px;
+        cursor: pointer;
+        border: 2px solid transparent;
+    }
+    #buttons2{
+        margin-top: 150px;
+        margin-left: 75px;
+    }
+    .contact{
+        width: 90px;
+    }
+}   
+
+
